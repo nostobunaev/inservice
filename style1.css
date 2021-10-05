@@ -158,5 +158,13 @@ box-shadow: 0 3px rgb(167, 149, 145) inset;
     text-decoration: none
 }
 
+.about {
+    float:left;
+    position: relative;
+    left: 50px;
+    top: 100px;
+    width: 700px;
+    margin: auto;
+}
 
 
